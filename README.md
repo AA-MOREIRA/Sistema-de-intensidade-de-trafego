@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Allan Augusto Moreira de Oliveira
 - 👀 I’m interested in my woman Thays Alves Moreira
-- 🌱 I’m currently learning about the physiognomy of the human body
+- 🌱 I’m currently learning about the systems development
 - 💞️ I’m looking to collaborate to my learning in the area of systems development 
 - 📫 you can contact me on my whatsapp +55 (27) 99732-6130
 - 😄 Pronouns: he/his
