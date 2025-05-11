@@ -1,0 +1,7 @@
+ Esse e um sistema de monitoramento de transito por cameras. Esse sistema foi criado para uma avaliacao da faculdade na materia de introducao a algoritmos.
+
+ Tenho ciencia de que nao e o sistema perfeito para monitorar o transito em si. Mas ele e eficiente para realizar a medicao da intensidade do trafego. Tive essa ideia a partir do funcionamento do aplicativo OnibusGV. Onde ele monitora a lotacao do onibus atraves da comparacao das imagens e nos diz se o onibus esta vazio ou cheio.
+
+ O codigo funciona basicamente com algebra linear e comparacao vetorial. O codigo vai transformar as imagens em vetores, tendo uma imagem da via vazia como referencia para fazer a comparacao da via nesses momentos com pouco movimento e com movimento intenso. Quando ele fizer a comparacao das imagens ele nos fornece um valor, o valor da distancia das imagens comparadas. Quanto menor for esse valor, menor sera a intensidade do trafego. E quanto maior for esse valor, mais intenso o trafego da via.
+
+ 
