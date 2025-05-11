@@ -7,3 +7,5 @@
  Esse codigo possui limitacoes como algo de diferente da imagem de referencia que nao seja um veiculo entrando no raio da imagem resultando em um valor mais alto do que realmente e, podendo resultar em muito transito, mesmo nao tendo muito. Mas e um codigo que nao ocupa muito espaco alem de ser simples de se mexer quando se tem o conhecimento de algoritmos. 
 
  No futuro aprendendo mais sobre programacao e algoritmos daria para esse codigo rodar uma determinada quantidade de vezes a cada 5 minutos por exemplo e realizar uma operacao de media pra descobrirmos com mais exatidao a intensidade do transito. Um exemplo seria que o programa rode 4 vezes em 1 minuto, onde ele apresenta os valores 10, 12, 14, 12. Ele somaria os valores resultando em 48, apos dividiriamos pelo numero de vezes que ele rodou. Resultando em 12, assim sendo pouco transito nesse exemplo.
+
+ Esse codigo foi feito em Python.
